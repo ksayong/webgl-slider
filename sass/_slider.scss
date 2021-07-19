@@ -1,0 +1,13 @@
+.wapper_img {
+	.slider {
+		// height: 230px;
+		height: 100vh;
+	}
+}
+
+.slider__nav {
+	&.js-slider__nav,
+	.scroll {
+		display: none;
+	}
+}
